@@ -14,3 +14,4 @@ rv32mi_sc_tests = \
 	shamt \
 
 rv32mi_p_tests = $(addprefix rv32mi-p-, $(rv32mi_sc_tests))
+rv32mi_px_tests = $(addprefix rv32mi-px-, $(rv32mi_sc_tests))
