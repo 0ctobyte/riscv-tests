@@ -1,3 +1,0 @@
-[submodule "env"]
-	path = env
-	url = https://github.com/0ctobyte/riscv-test-env.git
